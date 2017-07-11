@@ -1,5 +1,5 @@
 # Database_Management_System
-This project is focused towards learning on the internals of a database management system. 
+This project is focused towards learning on the internals of the database management system. 
 
 Mini Base is a study purpose database management system that is focused on providing to students an hands on experience towards the database management system internals. The project is divided into three phases:
 
